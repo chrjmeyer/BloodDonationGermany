@@ -1,0 +1,36 @@
+,bsd,street,town,url,zipcode,name,address,renum_monetary,renum_other,notes,geocodestatus,lat,long
+0,haema,Poststr. 19,Bonn,https://www.haema.de/blutspendezentren/nordrhein-westfalen/bonn.html,53111,Haema Blutspendezentrum Bonn,"Poststr. 19, 53111 Bonn",,,,1,50.7335994,7.0978812
+1,haema,Ostenhellweg 50,Dortmund,https://www.haema.de/blutspendezentren/nordrhein-westfalen/dortmund.html,44135,Haema Blutspendezentrum Dortmund,"Ostenhellweg 50, 44135 Dortmund",,,,1,51.5145216,7.47146226983
+2,haema,Kettwiger Str. 64,Essen,https://www.haema.de/blutspendezentren/nordrhein-westfalen/essen.html,45127,Haema Blutspendezentrum Essen,"Kettwiger Str. 64, 45127 Essen",,,,1,51.4576535,7.0128425
+3,haema,Westring 2,Hamm,https://www.haema.de/blutspendezentren/nordrhein-westfalen/hamm/,59065,Haema Blutspendezentrum Hamm,"Westring 2, 59065 Hamm",,,,1,51.6807144,7.8132484
+4,haema,Dachauer Str. 70,Munich,https://www.haema.de/blutspendezentren/bayern/muenchen.html,80335,Haema Blutspendezentrum München,"Dachauer Str. 70, 80335 Munich",,,,1,48.1491258,11.5588156
+5,haema,Hildegard-von-Bingen-Str. 1,Regensburg,https://www.haema.de/blutspendezentren/bayern/regensburg.html,93053,Haema Blutspendezentrum Regensburg,"Hildegard-von-Bingen-Str. 1, 93053 Regensburg",,,,1,49.0059043,12.1193626
+6,haema,Oststr. 51,Gotha,https://www.haema.de/blutspendezentren/thueringen/gotha/,99867,Haema Blutspendezentrum Gotha,"Oststr. 51, 99867 Gotha",,,,1,50.9531466,10.7139725
+7,haema,Lachsgasse 3,Erfurt,https://www.haema.de/blutspendezentren/thueringen/erfurt.html,99084,Haema Blutspendezentrum Erfurt,"Lachsgasse 3, 99084 Erfurt",,,,1,50.9737008,11.0325981
+8,haema,Breitscheidstr. 1,Gera,https://www.haema.de/blutspendezentren/thueringen/gera/?nomob=1,7545,Haema Blutspendezentrum Gera,"Breitscheidstr. 1, 07545 Gera",,,,1,50.8768085,12.0797538
+9,haema,Goethestr. 3a,Jena,https://www.haema.de/blutspendezentren/thueringen/jena/,7743,Haema Blutspendezentrum Jena,"Goethestr. 3a, 07743 Jena",,,,1,50.9274075,11.5823877
+10,haema,Steubenstr. 15,Weimar,https://www.haema.de/blutspendezentren/thueringen/weimar.html?nomob=1,99423,Haema Blutspendezentrum Weimar,"Steubenstr. 15, 99423 Weimar",,,,1,50.97736765,11.3251801307
+11,haema,Sandstr. 1,Lübeck,https://www.haema.de/blutspendezentren/schleswig-holstein/luebeck.html,23552,Haema Blutspendezentrum Lübeck,"Sandstr. 1, 23552 Lübeck",,,,1,53.8653982,10.6863445
+12,haema,Neustädter Passage 17 A,Halle (Saale),https://www.haema.de/blutspendezentren/sachsen-anhalt/hallesaale.html?nomob=1,6122,Haema Blutspendezentrum Halle (Saale),"Neustädter Passage 17 A, 06122 Halle (Saale)",,,,1,51.480749,11.9246378
+13,haema,Markt 5,Chemnitz,https://www.haema.de/blutspendezentren/sachsen/chemnitz.html,9111,Haema Blutspendezentrum Chemnitz,"Markt 5, 09111 Chemnitz",,,,1,50.8319067,12.9190993
+14,haema,Rosenstr. 30,Dresden,https://www.haema.de/blutspendezentren/sachsen/dresden-world-trade-center.html,1067,Haema Blutspendezentrum Dresden-World Trade Center,"Rosenstr. 30, 01067 Dresden",,,,1,51.0480137,13.7239784
+15,haema,Fetscherplatz 2a,Dresden,https://www.haema.de/blutspendezentren/sachsen/dresden-fetscherplatz.html?nomob=1,1307,Haema Blutspendezentrum Dresden-Fetscherplatz,"Fetscherplatz 2a, 01307 Dresden",,,,1,51.0465316,13.7705913
+16,haema,Bahnhofstr. 40,Freiberg,https://www.haema.de/blutspendezentren/sachsen/freiberg/,9599,Haema Blutspendezentrum Freiberg,"Bahnhofstr. 40, 09599 Freiberg",,,,1,50.9115131,13.3448523
+17,haema, An der Frauenkirche 12,Görlitz,https://www.haema.de/blutspendezentren/sachsen/goerlitz.html,2826,Haema Blutspendezentrum Görlitz," An der Frauenkirche 12, 02826 Görlitz",,,,1,51.1525857,14.9870149
+18,haema,Käthe-Kollwitz-Str. 6,Grimma,https://www.haema.de/blutspendezentren/sachsen/grimma/,4668,Haema Blutspendezentrum Grimma,"Käthe-Kollwitz-Str. 6, 04668 Grimma",,,,1,51.2382437,12.7173986
+19,haema,Markt 9,Leipzig,https://www.haema.de/blutspendezentren/sachsen/leipzig-markt/?nomob=1,4109,Haema Blutspendezentrum Leipzig-Markt,"Markt 9, 04109 Leipzig",,,,1,51.3409947,12.3735653
+20,haema,Lützowstr. 11,Leipzig,https://www.haema.de/blutspendezentren/sachsen/leipzig-gohlis-arkaden/,4155,Haema Blutspendezentrum Leipzig-Gohlis Arkaden,"Lützowstr. 11, 04155 Leipzig",,,,1,51.3621369,12.3709063
+21,haema,Karl-Liebknecht-Str. 153,Leipzig,https://www.haema.de/blutspendezentren/sachsen/leipzig-connewitz/,4277,Haema Blutspendezentrum Leipzig-Connewitz,"Karl-Liebknecht-Str. 153, 04277 Leipzig",,,,1,51.31194465,12.3736599041
+22,haema,Oberer Steinweg 10,Plauen,https://www.haema.de/blutspendezentren/sachsen/plauen/,8523,Haema Blutspendezentrum Plauen,"Oberer Steinweg 10, 08523 Plauen",,,,1,50.4946578,12.1375934
+23,haema,Marienstr. 3,Zwickau,https://www.haema.de/blutspendezentren/sachsen/zwickau.html,8056,Haema Blutspendezentrum Zwickau,"Marienstr. 3, 08056 Zwickau",,,,1,50.717811,12.4957548
+24,haema,DEUTSCHE-MED-Platz 2,Rostock,https://www.haema.de/blutspendezentren/mecklenburg-vorpommern/rostock.html?nomob=1,18057,Haema Blutspendezentrum Rostock,"DEUTSCHE-MED-Platz 2, 18057 Rostock",,,,1,54.0861107,12.1246056
+25,haema,Friedrichstr. 18,Schwerin,https://www.haema.de/blutspendezentren/mecklenburg-vorpommern/schwerin.html,19055,Haema Blutspendezentrum Schwerin,"Friedrichstr. 18, 19055 Schwerin",,,,1,53.63041185,11.4150712236
+26,haema,Nuthestr. 1,Potsdam,https://www.haema.de/blutspendezentren/brandenburg/potsdam.html,14480,Haema Blutspendezentrum Potsdam,"Nuthestr. 1, 14480 Potsdam",,,,1,52.3729102,13.1185753
+27,haema,Karl-Marx-Str. 2,Frankfurt (Oder),https://www.haema.de/blutspendezentren/brandenburg/frankfurt-oder.html,15230,Haema Blutspendezentrum Frankfurt (Oder),"Karl-Marx-Str. 2, 15230 Frankfurt (Oder)",,,,1,52.3489333,14.5498663
+28,haema,Kirchhofstr. 1,Brandenburg an der Havel,,14776,Haema Blutspendezentrum Brandenburg an der Havel,"Kirchhofstr. 1, 14776 Brandenburg an der Havel",,,,1,52.4044826,12.5615151
+29,haema,Wilmersdorfer Str. 54,Berlin,https://www.haema.de/blutspendezentren/berlin/berlin-charlottenburg.html?nomob=1,10627,Haema Blutspendezentrum Berlin-Charlottenburg,"Wilmersdorfer Str. 54, 10627 Berlin",,,,1,52.5084565,13.3059737
+30,haema,Peter-Weiss-Gasse 1,Berlin,https://www.haema.de/blutspendezentren/berlin/berlin-hellersdorf/,12627,Haema Blutspendezentrum Berlin-Hellersdorf,"Peter-Weiss-Gasse 1, 12627 Berlin",,,,1,52.5374189,13.6055877
+31,haema,Havemannstr. 12b,Berlin,https://www.haema.de/blutspendezentren/berlin/berlin-marzahn/,12689,Haema Blutspendezentrum Berlin-Marzahn,"Havemannstr. 12b, 12689 Berlin",,,,1,52.5689885,13.5691683
+32,haema,Landsberger Allee 117,Berlin,https://www.haema.de/blutspendezentren/berlin/berlin-prenzlauer-berg/,10407,Haema Blutspendezentrum Berlin-Prenzlauer Berg,"Landsberger Allee 117, 10407 Berlin",,,,1,52.5294787,13.4547689
+33,haema,Berliner Str. 25,Berlin,https://www.haema.de/blutspendezentren/berlin/berlin-tegel/,13507,Haema Blutspendezentrum Berlin-Tegel,"Berliner Str. 25, 13507 Berlin",,,,1,52.5838851,13.2884379
+34,haema,Badstr. 4a,Berlin,https://www.haema.de/blutspendezentren/berlin/berlin-wedding/,13357,Haema Blutspendezentrum Berlin-Wedding,"Badstr. 4a, 13357 Berlin",,,,1,52.5493764,13.3881065

@@ -1,0 +1,10 @@
+,bsd,street,town,url,zipcode,name,renum_monetary,renum_other,notes,address,geocodestatus,lat,long
+0,west,Burgweg 5,Bad Kreuznach,https://blutspende.blutspendedienst-west.de/blutspendezentren/blutspendezentrum-bad-kreuznach,55543,DRK Zentrum für Transfusionsmedizin Bad Kreuznach,0,,,"Burgweg 5, 55543 Bad Kreuznach",1,49.8245531,7.8473283
+1,west,Linneper Weg 1,Ratingen,https://blutspende.blutspendedienst-west.de/blutspendezentren/blutspendezentrum-breitscheid,40885,DRK Zentrum für Transfusionsmedizin Breitscheid,0,,,"Linneper Weg 1, 40885 Ratingen",1,51.3547445,6.86765029599
+2,west,Westenhellweg 85,Dortmund,https://blutspende.blutspendedienst-west.de/blutspendezentren/blutspendezentrum-dortmund,44137,DRK-Blutspendecenter Dortmund,0,,,"Westenhellweg 85, 44137 Dortmund",1,51.5142268,7.4591069
+3,west,Kettwiger Str. 5,Essen,https://blutspende.blutspendedienst-west.de/blutspendezentren/blutspendezentrum-essen,45127,DRK-Blutspendezentrum Essen,0,,,"Kettwiger Str. 5, 45127 Essen",1,51.4535974,7.0127366
+4,west,Feithstr. 184 ,Hagen,https://blutspende.blutspendedienst-west.de/blutspendezentren/blutspendezentrum-hagen,58097,DRK Zentrum für Transfusionsmedizin Hagen,0,,,"Feithstr. 184 , 58097 Hagen",1,51.3821791,7.4830005
+5,west,Neumarkt 1d ,Köln,https://blutspende.blutspendedienst-west.de/blutspendezentren/blutspendezentrum-koeln,50667,DRK-Blutspendezentrum Köln,0,,,"Neumarkt 1d , 50667 Köln",1,50.9358387,6.949425
+6,west,Sperlichstr. 15,Münster,https://blutspende.blutspendedienst-west.de/blutspendezentren/blutspendezentrum-muenster,48151,DRK Zentrum für Transfusionsmedizin Münster,0,,,"Sperlichstr. 15, 48151 Münster",1,51.94693,7.61283
+7,west,Klarissengasse 9,Münster,https://blutspende.blutspendedienst-west.de/blutspendezentren/blutspendezentrum-muenster-city,48151,City-Blutspende Münster,0,,,"Klarissengasse 9, 48151 Münster",1,51.9598209,7.6286288
+8,west,Heldmanstr. 45 ,Bad Salzuflen,https://blutspende.blutspendedienst-west.de/blutspendezentren/Blutspendezentrum-bad-salzuflen,32108,DRK-Blutspendezentrum Bad Salzuflen,0,,,"Heldmanstr. 45 , 32108 Bad Salzuflen",1,52.0742819,8.7644385

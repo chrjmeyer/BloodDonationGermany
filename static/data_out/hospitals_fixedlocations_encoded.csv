@@ -1,0 +1,4 @@
+,bsd,street,town,url,zipcode,name,renum_monetary,renum_other,notes,address,geocodestatus,lat,long
+0,hospital,Sigmund-Freud-Str. 25,Bonn,http://www.ukb.uni-bonn.de/quick2web/internet/internet.nsf/vwWebPagesByID/BA324A3FF82B93F5C12577DC003A0087,53127,Blutspendedienst des Uniklinikums Bonn (UKB),25.0,,,"Sigmund-Freud-Str. 25, 53127 Bonn",1,50.699239,7.10347
+1,hospital,Kerpener Str. 62,Cologne,http://transfusionsmedizin.uk-koeln.de/blutspendezentrale,50937,Blutspendezentrale der Uniklinik Köln,25.0,0.0,"25 EUR after second donation, 10 EUR voucher for first donation. Can donate to charity or hospital.","Kerpener Str. 62, 50937 Cologne",1,50.92344825,6.91706144347
+2,hospital,Obere Zahlbacher Str. 67,Mainz,https://www.unimedizin-mainz.de/transfusionszentrale/blutspender/uebersicht.html,55131,Transfusionszentrale der Universitätsmedizin der Johannes Gutenberg-Universität Mainz,,,,"Obere Zahlbacher Str. 67, 55131 Mainz",1,49.992815,8.262684
